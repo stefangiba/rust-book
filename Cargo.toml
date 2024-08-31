@@ -1,0 +1,18 @@
+[workspace]
+
+members = [
+    "hello_cargo",
+    "guessing_game",
+    "common_concepts",
+    "ownership",
+    "structs",
+    "enums"
+]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+
+[workspace.dependencies]
+rand = "0.8.5"
