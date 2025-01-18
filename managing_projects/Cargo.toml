@@ -1,0 +1,6 @@
+[package]
+name = "managing_projects"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]

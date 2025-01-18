@@ -6,7 +6,8 @@ members = [
     "common_concepts",
     "ownership",
     "structs",
-    "enums"
+    "enums",
+    "managing_projects"
 ]
 resolver = "2"
 
